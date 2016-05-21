@@ -26,6 +26,7 @@
                 <valorEbook>19.42</valorEbook>
                 <valorImpresso>29.33</valorImpresso>
             </livro>
+		</item>	
     </itens>
     <pagamento>
         <status>CONFIRMADO</status>
