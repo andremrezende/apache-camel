@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pedido>
+    <id>6532463</id>
+    <dataCompra>2013-12-05T18:10:07.963-02:00</dataCompra>
+    <itens>
+         <item>
+            <formato>IMPRESSO</formato>
+            <quantidade>1</quantidade>
+            <livro>
+                <codigo>9788562409448</codigo>
+                <titulo>Óbvio Adams</titulo>
+                <tituloCurto>Óbvio Adams</tituloCurto>
+                <nomeAutor>Robert Updegraff</nomeAutor>
+                <valorEbook>6.90</valorEbook>
+                <valorImpresso>15.90</valorImpresso>
+            </livro>
+        </item>
+        <item>
+            <formato>PDF</formato>
+            <quantidade>1</quantidade>
+            <livro>
+                <codigo>82-7542-116-6</codigo>
+                <titulo>Um dia "Daqueles"</titulo>
+                <tituloCurto>Um dia "Daqueles"</tituloCurto>
+                <nomeAutor>Bredley Trevor Greive</nomeAutor>
+                <valorEbook>19.42</valorEbook>
+                <valorImpresso>29.33</valorImpresso>
+            </livro>
+    </itens>
+    <pagamento>
+        <status>CONFIRMADO</status>
+        <valor>35.32</valor>
+        <titular>R2 D2</titular>
+        <email-titular>r2d2@efg.com</email-titular>
+    </pagamento>
+</pedido>

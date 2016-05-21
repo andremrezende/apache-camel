@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pedido>
+    <id>321654</id>
+    <dataCompra>2016-12-05T18:21:07.529-02:00</dataCompra>
+    <itens>
+         <item>
+            <formato>PDF</formato>
+            <quantidade>1</quantidade>
+            <livro>
+                <codigo>82-7542-116-6</codigo>
+                <titulo>Um dia "Daqueles"</titulo>
+                <tituloCurto>Um dia "Daqueles"</tituloCurto>
+                <nomeAutor>Bredley Trevor Greive</nomeAutor>
+                <valorEbook>19.42</valorEbook>
+                <valorImpresso>29.33</valorImpresso>
+            </livro>
+        </item>
+    </itens>
+    <pagamento>
+        <status>CONFIRMADO</status>
+        <valor>19.42</valor>
+        <titular>Darth Vader</titular>
+        <email-titular>darth.vader@abc.com</email-titular>
+    </pagamento>
+</pedido>
