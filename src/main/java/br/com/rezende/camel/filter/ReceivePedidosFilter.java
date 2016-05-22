@@ -5,14 +5,15 @@ import org.apache.camel.builder.RouteBuilder;
 import org.apache.camel.impl.DefaultCamelContext;
 
 /**
+ * Class to receive book orders and filter PDF books, transforming XML files to
+ * JSON on output folder saida.
  * 
- * @author Rezende
+ * @author Andre Rezende
  *
  */
-public class ReceivePedidos {
+public class ReceivePedidosFilter {
 
 	public static void main(String[] args) throws Exception {
-
 		CamelContext context = new DefaultCamelContext();
 		context.addRoutes(new RouteBuilder() {
 
