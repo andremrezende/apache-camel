@@ -1,8 +1,8 @@
-# camel-filter
+# apache-camel-examples
 
-Camel-filter is just Apache Camel Filter example:
-- provides Order XML Files to receive.
-- provides filter PDF Books on Orders.
+apache-camel-examples is just Apache Camel examples such as example:
+- provides order XML files to receive.
+- provides filter PDF books on orders.
 - provides transformation XML to JSON to output.
 
 ## Contributors
